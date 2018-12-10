@@ -1,3 +1,3 @@
 # pandas 
-remote repo to help and to teach 
+great resource to start pandas and dataframe
 [good tutorial for pandas] (https://pandas.pydata.org)
